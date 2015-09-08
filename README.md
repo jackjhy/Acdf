@@ -1,2 +1,2 @@
 # Acdf
-a common dynamo framework
+a generic dynamo framework
